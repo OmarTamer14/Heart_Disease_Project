@@ -1,0 +1,5 @@
+RF best params: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 300}
+RF test AUC: 1.0
+SVM best params: {'kernel': 'rbf', 'gamma': 0.1, 'C': 10}
+SVM test AUC: 1.0
+Chosen final model: RandomForest with AUC 1.0
